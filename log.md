@@ -18,10 +18,19 @@
 **Link to work:** [Gaslands Garage Express](https://github.com/insideseanshead/gaslands_garage_express)
 
 
-### Day 2: January 2, 2021 
+### Day 3: January 3, 2021 
 
 **Today's Progress**: Took a break from my Gaslands app today to do some refreshing on mongodb and react. Going through the traversy media learn mern stack as it is something we only briefly touched on in the boot camp.
 
 **Thoughts:** Taking the extra time to implement the different elements of react is nice. In the bootcamp things came at me so fast I felt I wasn't grasping a lot of the core concepts. Being able to pause and look at what I am doing, I find it is making a lot more sense. The tutorial is also a couple years old now so I have to do a bit of troubleshooting, with the console and react I am able to track down updated packages or find hiccups much easier than I could before. 
+
+**Link to work:** 
+
+
+### Day 4: January 4, 2021 
+
+**Today's Progress**: To continue on with yesterdays tutorial on Mern apps I worked on a redux tutorial for the afternoon. 
+
+**Thoughts:** State still flumuxes me. I get the theory but in practice I still have a hard time understanding how to implement. I think I need to take a further step back in my review of React.
 
 **Link to work:** 
