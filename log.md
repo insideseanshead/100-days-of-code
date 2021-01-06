@@ -34,3 +34,12 @@
 **Thoughts:** State still flumuxes me. I get the theory but in practice I still have a hard time understanding how to implement. I think I need to take a further step back in my review of React.
 
 **Link to work:** 
+
+
+### Day 5: January 5, 2021 
+
+**Today's Progress**: Continuing on with my Mern project I am following along with the tutorial and adding redux to the shopping list app. 
+
+**Thoughts:** While a lot of this still goes over my head the repetition is helping a lot. I am starting to see how the different components are linking up and how state is utilized better.
+
+**Link to work:** 
