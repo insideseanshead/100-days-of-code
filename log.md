@@ -43,3 +43,12 @@
 **Thoughts:** While a lot of this still goes over my head the repetition is helping a lot. I am starting to see how the different components are linking up and how state is utilized better.
 
 **Link to work:** 
+
+
+### Day 6: January 7, 2021 
+
+**Today's Progress**: Finished shopping list app and attempting to upload full mern app to Heroku 
+
+**Thoughts:** I say attempting because I keep hitting an error that I can't quite sus out. I'm going to give my eyes a rest and come back and look at the logs and see if I can find where I am missing something.
+
+**Link to work:** 
