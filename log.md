@@ -52,3 +52,12 @@
 **Thoughts:** I say attempting because I keep hitting an error that I can't quite sus out. I'm going to give my eyes a rest and come back and look at the logs and see if I can find where I am missing something.
 
 **Link to work:** 
+
+
+### Day 7: January 8, 2021 
+
+**Today's Progress**: Started building my seed for my Gaslands app and tried to get my db running and models set up.
+
+**Thoughts:** Kept running into errors with my models and the name of one of my models showing up as null. Took longer than I care to admit... and an extra set of eyes to realize I wasn't returning one of my models.
+
+**Link to work:** 
