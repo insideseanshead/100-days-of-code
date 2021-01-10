@@ -61,3 +61,12 @@
 **Thoughts:** Kept running into errors with my models and the name of one of my models showing up as null. Took longer than I care to admit... and an extra set of eyes to realize I wasn't returning one of my models.
 
 **Link to work:** 
+
+
+### Day 7: January 8, 2021 
+
+**Today's Progress**: Finally got my Models working and my DB is up and running. Began seeding the tables with the info they will need as well as some temp data for rendering the final cards for my gaslands app. Then got Handlebars set up and functioning after a bit of funky happening with the routes. Now my site is being run off the server and is dynamically generating cards with info using Handlebars.
+
+**Thoughts:** Today was a test in troubleshooting. Nothing was working how I thought it would. A good test of google fu helped me find npm packages that solved some rendering proplems as well as just playing around with my routes and dom to get the information I wanted to where it needed to be. In learning art we would talk about platues that sometimes you will create and be at a certain level for a while till you make that next connection in your head and then your skills take a big leap. I think today might be one of those leaps.
+
+**Link to work:** [Gaslands Garage Express](https://github.com/insideseanshead/gaslands_garage_express)
