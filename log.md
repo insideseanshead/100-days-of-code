@@ -63,7 +63,7 @@
 **Link to work:** 
 
 
-### Day 7: January 8, 2021 
+### Day 8: January 9, 2021 
 
 **Today's Progress**: Finally got my Models working and my DB is up and running. Began seeding the tables with the info they will need as well as some temp data for rendering the final cards for my gaslands app. Then got Handlebars set up and functioning after a bit of funky happening with the routes. Now my site is being run off the server and is dynamically generating cards with info using Handlebars.
 
