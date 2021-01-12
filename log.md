@@ -70,3 +70,12 @@
 **Thoughts:** Today was a test in troubleshooting. Nothing was working how I thought it would. A good test of google fu helped me find npm packages that solved some rendering proplems as well as just playing around with my routes and dom to get the information I wanted to where it needed to be. In learning art we would talk about platues that sometimes you will create and be at a certain level for a while till you make that next connection in your head and then your skills take a big leap. I think today might be one of those leaps.
 
 **Link to work:** [Gaslands Garage Express](https://github.com/insideseanshead/gaslands_garage_express)
+
+
+### Day 9: January 11, 2021 
+
+**Today's Progress**: Today was more of a workhorse day than a eurika day. Helped a friend with their react site today. Simple scrolling error cause by the hide attribute in the css. Put in an hour on free code camp reviewing my css and working my way through their certificates. Tonights work on my app was spent adding models and seeding the base information my app will need to create stats for the different cars the user can create.
+
+**Thoughts:** As I said a simple day. Lot's of troubleshooting and looking through code and errors reports tying to sus out where a typo is or where something isn't returned. Wanted to start tackeling implementing cloudinary but realized without the ability to create a new car card there wouldn't be a place to implement the image module. So the next few days will be spent flushing out handlebars a bit more and getting the site navigable. Being able to create select boxes filled with options based on my DB.
+
+**Link to work:** [Gaslands Garage Express](https://github.com/insideseanshead/gaslands_garage_express)
