@@ -79,3 +79,12 @@
 **Thoughts:** As I said a simple day. Lot's of troubleshooting and looking through code and errors reports tying to sus out where a typo is or where something isn't returned. Wanted to start tackeling implementing cloudinary but realized without the ability to create a new car card there wouldn't be a place to implement the image module. So the next few days will be spent flushing out handlebars a bit more and getting the site navigable. Being able to create select boxes filled with options based on my DB.
 
 **Link to work:** [Gaslands Garage Express](https://github.com/insideseanshead/gaslands_garage_express)
+
+
+### Day 10: January 18, 2021 
+
+**Today's Progress**: Unfortunately got side tracked with a bit of freelance work last week. life of an illustrator. Part of why I am trying to pivot careers to web design. Today I did a review crash course on React and have been inspired to finish my react illustration portfolio site.
+
+**Thoughts:** Still trying to crack the code to dynamically making thumbnails. The ideal outcome is to have a portfolio site that I can simply add an image link and alt text to a DB and it dynamically adds it into the gallery. So I can easily add new work as I finish it. Making sure my portfolio is always up to date.
+
+**Link to work:** [Illustration Portfolio](https://github.com/insideseanshead/illustration-portfolio)
