@@ -88,3 +88,12 @@
 **Thoughts:** Still trying to crack the code to dynamically making thumbnails. The ideal outcome is to have a portfolio site that I can simply add an image link and alt text to a DB and it dynamically adds it into the gallery. So I can easily add new work as I finish it. Making sure my portfolio is always up to date.
 
 **Link to work:** [Illustration Portfolio](https://github.com/insideseanshead/illustration-portfolio)
+
+
+### Day 11: January 19, 2021 
+
+**Today's Progress**: Today I focused on using flexbox to arrange my image galler dynamically, along with some css tricks to animate and enlarge the image that is being hovered over. Found out bulma does not have a built in sicky navbar component so spent an hour researching ways to implement that in react. Have a version working though it is set ot offsety which at varying screen sizes seems to be an issue. Must research more. Following up on that I used bulma colums to set up and design my contact component.
+
+**Thoughts:** I think back to art school and using the right tools for the job. Bulma is missing some key components that I would find in a more robust cssframework like bootstrap means I probably won't use it to much in the future. Definetly more comfortable with React after yesterdays review. Look forward to implementing a backend to store my image assets and building a dev side where I can simply upload new assets to my gallery without needing to make ftp uploads.
+
+**Link to work:** [Illustration Portfolio](https://github.com/insideseanshead/illustration-portfolio)
