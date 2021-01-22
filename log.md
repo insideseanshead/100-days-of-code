@@ -97,3 +97,12 @@
 **Thoughts:** I think back to art school and using the right tools for the job. Bulma is missing some key components that I would find in a more robust cssframework like bootstrap means I probably won't use it to much in the future. Definetly more comfortable with React after yesterdays review. Look forward to implementing a backend to store my image assets and building a dev side where I can simply upload new assets to my gallery without needing to make ftp uploads.
 
 **Link to work:** [Illustration Portfolio](https://github.com/insideseanshead/illustration-portfolio)
+
+
+### Day 12: January 21, 2021 
+
+**Today's Progress**: Getting to the final stretch of my portfolio project. Added lightbox feature with react as well as made all my images into global state. Also created an image component so all images in my portfolio are individual components. Next up is adding the back end and making those calls from a DB rather than state. 
+
+**Thoughts:** It's getting easier to understand what it is I am doing and I can see how things are working better. Even if I am building off the structure of tutorials I am able to change things and addapt as necessary. I am excited to figure out the back end and eventually a basic crud system for adding new images and removing old.
+
+**Link to work:** [Illustration Portfolio](https://github.com/insideseanshead/illustration-portfolio)
