@@ -106,3 +106,12 @@
 **Thoughts:** It's getting easier to understand what it is I am doing and I can see how things are working better. Even if I am building off the structure of tutorials I am able to change things and addapt as necessary. I am excited to figure out the back end and eventually a basic crud system for adding new images and removing old.
 
 **Link to work:** [Illustration Portfolio](https://github.com/insideseanshead/illustration-portfolio)
+
+
+### Day 13: January 22, 2021 
+
+**Today's Progress**: Today I wanted to get cloudinary up and running. But because A friend asked to see what I have been working on I decided to launch my in process portfolio to Heroku. After a lot of googling and help from a friend we got it up and running but then my images wern't working properly because they were not https and heroku wouldn't load them because of that for reasons. So long story short Cloudinary is the next thing to get added so I can have my images come from a cloudinary data base.
+
+**Thoughts:** Two steps forward one step back. Today was practice in dealing with frustration and troubleshooting. At the end of the day I was able to launch my site but it kept me from working what I was really hoping to get done today.
+
+**Link to work:** [Illustration Portfolio](https://github.com/insideseanshead/illustration-portfolio)
