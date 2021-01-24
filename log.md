@@ -115,3 +115,12 @@
 **Thoughts:** Two steps forward one step back. Today was practice in dealing with frustration and troubleshooting. At the end of the day I was able to launch my site but it kept me from working what I was really hoping to get done today.
 
 **Link to work:** [Illustration Portfolio](https://github.com/insideseanshead/illustration-portfolio)
+
+
+### Day 14: January 23, 2021 
+
+**Today's Progress**: Spent something like 6 hours to be able to make an spi call from cloudinary. Did a Breaking bad api app tutorial to help me review and work through. Ultimately if it wern't for the help of my friend Kayla who struggled with this herself I wouldn't have figured out where to find the very not well signposted settings in Cloudinary to make it work. So finally getting the call but now having an async issue with getting the call to come through and then updating the state. So my images state array most times doesn't get the info which breaks my gallery component and I am tired and will spend tomorrow reviewing asyncrinous functions.
+
+**Thoughts:** Frustrated. If I could only get this api call to work then the basic functionallity of my site would be complete. I am going to look into other ways of uploading images to a website that isn't cloudinary.
+
+**Link to work:** [Illustration Portfolio](https://github.com/insideseanshead/illustration-portfolio)
