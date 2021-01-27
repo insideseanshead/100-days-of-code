@@ -124,3 +124,10 @@
 **Thoughts:** Frustrated. If I could only get this api call to work then the basic functionallity of my site would be complete. I am going to look into other ways of uploading images to a website that isn't cloudinary.
 
 **Link to work:** [Illustration Portfolio](https://github.com/insideseanshead/illustration-portfolio)
+
+
+### Day 15: January 26, 2021 
+
+**Today's Progress**: Simple no frills day of just trying to dry out some old code and utilize some of the react elements I have been learning making my illustration portfolio site.
+**Thoughts:** Stressful day of trying to get in the habbit of applying for jobs so I took it a bit easy on the code. Want to make my dev site a bit cleaner so working on that. Debating the merrits of trying to fix something within an existing frame work or just building from the ground up with what I know now.
+
