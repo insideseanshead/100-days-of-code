@@ -131,3 +131,9 @@
 **Today's Progress**: Simple no frills day of just trying to dry out some old code and utilize some of the react elements I have been learning making my illustration portfolio site.
 **Thoughts:** Stressful day of trying to get in the habbit of applying for jobs so I took it a bit easy on the code. Want to make my dev site a bit cleaner so working on that. Debating the merrits of trying to fix something within an existing frame work or just building from the ground up with what I know now.
 
+
+### Day 16: January 27, 2021 
+
+**Today's Progress**: Started on the google book app project today. Set up my mongo atlas db and got my back end all set up including get, post, and delete routes.
+**Thoughts:** Still shaky on db management and routing calls. Hoping this project will help start to solidify those connections in the ol brain box.
+
