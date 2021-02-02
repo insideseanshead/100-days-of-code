@@ -137,3 +137,17 @@
 **Today's Progress**: Started on the google book app project today. Set up my mongo atlas db and got my back end all set up including get, post, and delete routes.
 **Thoughts:** Still shaky on db management and routing calls. Hoping this project will help start to solidify those connections in the ol brain box.
 
+
+### Day 17: January 28, 2021 
+
+**Today's Progress**: React junk also set up google books api. Set up page components. (Sean remember to clean this up later your to tired to log.)
+**Thoughts:** Same here don't upload this tonight
+
+
+### Day 18-19: January 31-1, 2021 
+
+**Today's Progress**: Been dealing with getting my portfolios live. Setting up secure ssl servers with my host was difficult. Other than that the code work has been doing daily challenges on Hackerrank and tweaking things for my portfolios to get them employer ready.
+**Thoughts:** Forgetting to update this so I know I missed logging a couple of days. But all that means is I get more coding time so I guess there are worse problems to have.
+
+**Link to work:** [Illustration Portfolio](https://github.com/insideseanshead/illustration-portfolio)
+**Link to work:** [Illustration Portfolio](https://github.com/insideseanshead/react-portfolio)
