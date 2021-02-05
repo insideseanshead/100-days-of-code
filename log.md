@@ -151,3 +151,8 @@
 
 **Link to work:** [Illustration Portfolio](https://github.com/insideseanshead/illustration-portfolio)
 **Link to work:** [Illustration Portfolio](https://github.com/insideseanshead/react-portfolio)
+
+
+### Day 20: January 4, 2021 
+
+**Today's Progress**: Been slow going trying to trouble shoot my mern application. I have the back end running I can add to it through postman I can check it on the local port. But when I try and make a request from my react app It keeps trying to pull from the port react is running on and not the proxy port that DB is running on. That on top of vs code crashing and having to be completely re-installed has got me quite frustrated to day. I think I am going to spend the next couple days working on code challenges and tutorials for building db and mern apps and come back to this app once I have a better understanding of what is happening.
