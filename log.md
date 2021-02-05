@@ -156,3 +156,10 @@
 ### Day 20: January 4, 2021 
 
 **Today's Progress**: Been slow going trying to trouble shoot my mern application. I have the back end running I can add to it through postman I can check it on the local port. But when I try and make a request from my react app It keeps trying to pull from the port react is running on and not the proxy port that DB is running on. That on top of vs code crashing and having to be completely re-installed has got me quite frustrated to day. I think I am going to spend the next couple days working on code challenges and tutorials for building db and mern apps and come back to this app once I have a better understanding of what is happening.
+
+
+### Day 21: Feb 5, 2021 
+
+**Today's Progress**: Reviewing mern and mongo backend. Still havent solved my proxy issue so I thought reviewing my back end set up might help me see something I am missing. 
+**Thoughts:** With the speed of the boot camp so much information got lost so I find these easy review days to be so refreshing. Taking the time to read and then write each line rather than relying on frankensteining code from class assignments gives me a much clearer idea as to everything that is happeneing within my applications
+
