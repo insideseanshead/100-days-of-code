@@ -163,3 +163,8 @@
 **Today's Progress**: Reviewing mern and mongo backend. Still havent solved my proxy issue so I thought reviewing my back end set up might help me see something I am missing. 
 **Thoughts:** With the speed of the boot camp so much information got lost so I find these easy review days to be so refreshing. Taking the time to read and then write each line rather than relying on frankensteining code from class assignments gives me a much clearer idea as to everything that is happeneing within my applications
 
+
+### Day 21: Feb 8, 2021 
+
+**Today's Progress**: Rough start as I have been sick. But jumped back into the Free Code Camp mern tutorail. Still trying to figure out my proxy problem in my google book app, but after today feeling a lot stronger about react components and makeing calls with axios. Tomorrow's goal is to get the DB working for google book and start rendering data to the page. 
+**Thoughts:** 
