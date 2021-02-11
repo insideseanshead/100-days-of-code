@@ -168,3 +168,9 @@
 
 **Today's Progress**: Rough start as I have been sick. But jumped back into the Free Code Camp mern tutorail. Still trying to figure out my proxy problem in my google book app, but after today feeling a lot stronger about react components and makeing calls with axios. Tomorrow's goal is to get the DB working for google book and start rendering data to the page. 
 **Thoughts:** 
+
+
+### Day 21: Feb 8, 2021 
+
+**Today's Progress**: Still counting today as a win. Refactored my front end to make direct call to the local host (though I will need to figure out a permanent solution) to set the state for my app and retrieve data from my mongo db. So now I can itterate and start rendering data to the page. So hopefully tomorrow I can get full crud functionality locally.
+**Thoughts:** I really just want to be done with this project already. I am learning a lot but the frustration is starting to weigh on me. I still havent even gotten to making calls from the google api.
