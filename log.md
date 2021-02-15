@@ -176,7 +176,14 @@
 **Thoughts:** I really just want to be done with this project already. I am learning a lot but the frustration is starting to weigh on me. I still havent even gotten to making calls from the google api.
 
 
-### Day 21: Feb 14, 2021 
+### Day 21: Feb 13, 2021 
 
 **Today's Progress**: Prepping for an interview next week so mostly reviewing and building apis and the like.
 **Thoughts:** Nothing major right now. No large leaps and bounds as I am mostly trying to just solidify knowledge in my brain right now.
+
+
+### Day 22: Feb 14, 2021 
+
+**Today's Progress**: Today I started a workshop to learn angular. Set up the cmi and played around with the basic file structure of the js frame work. Also tutorial on Typescript which I now know is just better JS which makes me happy cause I like the idea of better JS. 
+**Thoughts:** I have been stuck in a creative rut as of late. Just working on projects to work on them or cause it's what is expected of me but I havent had a big meaty project that I am passionate about to dive into. I think it's time to put the google book app on the back burner. It was helpful in figuring out the structure of a mern app but the subject just isnt something I am passionate about and I feel my git is suffering from lack of motivation. After Tuesdays interview I plan to dive head first back into my gaslands application.
+
