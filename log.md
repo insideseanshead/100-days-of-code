@@ -187,3 +187,8 @@
 **Today's Progress**: Today I started a workshop to learn angular. Set up the cmi and played around with the basic file structure of the js frame work. Also tutorial on Typescript which I now know is just better JS which makes me happy cause I like the idea of better JS. 
 **Thoughts:** I have been stuck in a creative rut as of late. Just working on projects to work on them or cause it's what is expected of me but I havent had a big meaty project that I am passionate about to dive into. I think it's time to put the google book app on the back burner. It was helpful in figuring out the structure of a mern app but the subject just isnt something I am passionate about and I feel my git is suffering from lack of motivation. After Tuesdays interview I plan to dive head first back into my gaslands application.
 
+
+### Day 23: Feb 15, 2021 
+
+**Today's Progress**: Traversy put out a tutorial on Keystone today so I gave it a look see and boy do I like it. My biggest struggle with setting up an api is seeding it and getting something I can play around with quick. Gonna play around with it this evening and try and make a simple crud application just to try and solidify some of this stuff.
+**Thoughts:** I know I said I was gonna work on my gaslands app today but I want to try and make something with keystone to practice what I learned today so thats the project for tonight.
