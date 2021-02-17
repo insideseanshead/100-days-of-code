@@ -192,3 +192,9 @@
 
 **Today's Progress**: Traversy put out a tutorial on Keystone today so I gave it a look see and boy do I like it. My biggest struggle with setting up an api is seeding it and getting something I can play around with quick. Gonna play around with it this evening and try and make a simple crud application just to try and solidify some of this stuff. Used Keystone to create some forms to start setting up a combat tracker app for Warhameer Fantasy 2nd Edition. Also created and set up a react framework for the front end.
 **Thoughts:** I know I said I was gonna work on my gaslands app today but I want to try and make something with keystone to practice what I learned today so thats the project for tonight. A lot of table top related projects I have require imputting a lot of data and creating pretty elaborate apis so Keystone makes it super easy to just create a back end form that I can fill out and add. Especially when all the text is in pdfs that I can copy and paste from.
+
+
+### Day 24: Feb 16, 2021 
+
+**Today's Progress**: Today I got to working on the react front end of my Warhammer Fantasy Combat Tracker app. Mostly getting the base componets together then designing and creating a single monster card layout. So now I can turn the card into a component that I can map over with my mongodb and dynamically create all my monsters already saved in the DB.
+**Thoughts:** I love front end design. I am getting more and more comfortable with react components and have a stronger understanding of how I should be building things in react. Look forward to hooking up my database and pulling in and mapping out my monster stat cards.
