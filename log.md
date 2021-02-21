@@ -198,3 +198,9 @@
 
 **Today's Progress**: Today I got to working on the react front end of my Warhammer Fantasy Combat Tracker app. Mostly getting the base componets together then designing and creating a single monster card layout. So now I can turn the card into a component that I can map over with my mongodb and dynamically create all my monsters already saved in the DB.
 **Thoughts:** I love front end design. I am getting more and more comfortable with react components and have a stronger understanding of how I should be building things in react. Look forward to hooking up my database and pulling in and mapping out my monster stat cards.
+
+
+### Day 25-29: Feb 17-20, 2021 
+
+**Today's Progress**: Few days of house keeping. Refactoring and working on the odd app to make run smoother or add fearues. Like updating my cloudinary api call to make files smaller when they render. Other than that working through my Warhammer Battle Tracker app. Front end is finished. Had to refactor into a MERN style app to set up a local host to call from MongoDB Atlas. Today got local host server all set up and am able to make GET requests to my API to get information back. 
+**Thoughts:** Feeling good. The ability to get the structure of a full stack app down is really taking root. The file structure making a lot of sense and I am spending less time troubleshooting as I am writing new code.
