@@ -204,3 +204,9 @@
 
 **Today's Progress**: Few days of house keeping. Refactoring and working on the odd app to make run smoother or add fearues. Like updating my cloudinary api call to make files smaller when they render. Other than that working through my Warhammer Battle Tracker app. Front end is finished. Had to refactor into a MERN style app to set up a local host to call from MongoDB Atlas. Today got local host server all set up and am able to make GET requests to my API to get information back. 
 **Thoughts:** Feeling good. The ability to get the structure of a full stack app down is really taking root. The file structure making a lot of sense and I am spending less time troubleshooting as I am writing new code.
+
+
+### Day 30-31: Feb 21-22, 2021 
+
+**Today's Progress**: Prepping for second interview with reading about Big O as well as udemy course on Angular.
+**Thoughts:** I am starting to understand the more specific use cases for angular but still think React is the much better framework.
