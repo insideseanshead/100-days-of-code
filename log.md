@@ -210,3 +210,9 @@
 
 **Today's Progress**: Prepping for second interview with reading about Big O as well as udemy course on Angular.
 **Thoughts:** I am starting to understand the more specific use cases for angular but still think React is the much better framework.
+
+
+### Day 32: Feb 23, 2021 
+
+**Today's Progress**: Reviewing JS and working on my Combat Tracker App today. I got the app to return data from the DB and using map got each monster in the db to render to the page in a collapsable card with all the relevant information loading. At this point the app is useable as a beastiary. Tomorrow I want to get the search function added so I can search through my beastiary and filter out the ones I'm not looking for. Also need to figure out how to sort by the names of the beasts. Will look into prop drilling to sort this out.
+**Thoughts:** Really happy to see this project starting to work so far so thing's I am comfortable doing. Tomorrow we will work on getting the form search done and then continue to try and solve the sorting problem.
