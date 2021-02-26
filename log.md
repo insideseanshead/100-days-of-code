@@ -216,3 +216,9 @@
 
 **Today's Progress**: Reviewing JS and working on my Combat Tracker App today. I got the app to return data from the DB and using map got each monster in the db to render to the page in a collapsable card with all the relevant information loading. At this point the app is useable as a beastiary. Tomorrow I want to get the search function added so I can search through my beastiary and filter out the ones I'm not looking for. Also need to figure out how to sort by the names of the beasts. Will look into prop drilling to sort this out.
 **Thoughts:** Really happy to see this project starting to work so far so thing's I am comfortable doing. Tomorrow we will work on getting the form search done and then continue to try and solve the sorting problem.
+
+
+### Day 33 - 34: Feb 24-25, 2021 
+
+**Today's Progress**: Finally got the sort method working on my beastiary list for my combat tracker app. Ultimately I had the answer all along I guess I implimented it incorrectly cause after about 90 minutes of console logging and having Kayla help me google answers I went back to just sorting by name and it worked fine. So then I spent another hour adding more monsters to the db with keystone. The morning was spent reviewing JS with my udemy course.
+**Thoughts:** Ultimately I am happy I had the answer all along. It means the skills are starting to stick and I have the ability to trouble shoot things as I am making them. Just wish I was quicker at getting to that final answer.
