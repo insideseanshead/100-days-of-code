@@ -228,3 +228,9 @@
 
 **Today's Progress**: Trying to get the search function to work in my combat tracker. Got it to work in another simple react app so not sure why it isn't working for my combat tracker. The query is going through and resetting the state with each key stroke but isn't actually filtering the arrays. The further I get into this project the more I realize that MONGODB Atlas isn't the best solution for the final deployment so I am gonna build a simple mySQL db and set it up on heroku as a api I can call. Hopefully this will make deployment smoother and maybe solve some of my serch functionality issues.
 **Thoughts:** Everyday things are making more and more sense the data structure and how things works is getting more clear. All and all happy.
+
+
+### Day 36: Feb 28, 2021 
+
+**Today's Progress**: Tonight I refactored and updated my code for my illustration portfolio app in prep for recording Cloudinarys dev podcast. 
+**Thoughts:** Not much to report today just wanted to refactor and look at the code to get ready to discuss.
