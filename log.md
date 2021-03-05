@@ -234,3 +234,9 @@
 
 **Today's Progress**: Tonight I refactored and updated my code for my illustration portfolio app in prep for recording Cloudinarys dev podcast. 
 **Thoughts:** Not much to report today just wanted to refactor and look at the code to get ready to discuss.
+
+
+### Day 37: Mar 4, 2021 
+
+**Today's Progress**: Working on building the backend for my combat tracker app. Haven't build a dedicated back end api before. I have made plenty for mern apps where the data will be returning and created within the same application. Getting a response locally won't be difficult but I will need to rework my front end models and calls around. Which I will probably do over the weekend. Hopefully have all my monster data retuning from mySQL database rather than my Mongo.
+**Thoughts:** Trying to get more comfortable with back end file structure. Still prefer front end code but am getting more and more comfortable with creating the guts of apps.
