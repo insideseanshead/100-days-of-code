@@ -246,3 +246,9 @@
 
 **Today's Progress**: Reworked backend into a SQL DB which I now need to upload to heroku and change my calls to come from the Heroku app rather than local. Front end works as simple beastiary now to build a system to create and save encounters.
 **Thoughts:** Re working the wandir back end to build out a sql database was good practice as ive been using mongo atlas a lot. The rest of the app will be the real challenge as I need to figure out a way to allow user to create and save individual encounters using the data that already exists. Once that is set up then a authentication method will be needed. Afterwards I would like to add a tool for adding party members bass stats in and building a combat tracker that takes in the saved encounter data and user data and aranges itself based on the initiative.
+
+
+### Day 41: Mar 16, 2021 
+
+**Today's Progress**: Studying authentication and started building in authentication for my combat tracker app. Refactoring my api for users, campaigns and encounters. Still not sure how I am going to add monsters to encounters but getting the framework in there to at least be able to put something together.
+**Thoughts:** Really starting to get into the weeds on this one. Curious to see how I figure all this out. The next day or so will be more and more about how to use authentication and linked sql databases.
